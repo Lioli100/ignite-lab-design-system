@@ -21,7 +21,6 @@ module.exports = {
       config.base = '/ignite-lab-design-system/'
     }
 
-    
-    return config
+        return config
   }
 }
